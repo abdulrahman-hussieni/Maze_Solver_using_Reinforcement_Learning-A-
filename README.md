@@ -35,13 +35,15 @@ The project includes multiple RL agents and exploration policies for comparing l
 
 ### Q-Learning Agent
 
-![Q-Learning Screenshot](docs/qlearning.png)
+<img width="799" height="804" alt="qlearning" src="https://github.com/user-attachments/assets/b1b65af8-4569-4d4b-a650-38e4a3a0d54b" />
+
 
 ---
 
 ### SARSA Agent
 
-![SARSA Screenshot](docs/sarsa.png)
+<img width="801" height="799" alt="sarsa" src="https://github.com/user-attachments/assets/6e557672-37b2-48d3-b409-9849b1828784" />
+
 
 ---
 
@@ -198,9 +200,9 @@ This project uses:
 
 ## 👨‍💻 Author
 
-**Ahmed Yasser**
+**Abdelrahman Hussieni**
 
-GitHub: https://github.com/AhmedYasser06
+GitHub: https://github.com/abdulrahman-hussieni
 
 ---
 
